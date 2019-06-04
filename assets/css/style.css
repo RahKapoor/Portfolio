@@ -511,7 +511,7 @@ textarea.form-control {
 
 #home {
 	background: url("https://github.com/RahKapoor/portfolio/blob/master/assets/images/home2.jpg");
-	background-color: #fd725a;
+	background: linear-gradient(45deg, rgba(250,31,85,1) 0%, rgba(253,115,90,1) 100%);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
