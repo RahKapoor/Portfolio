@@ -503,6 +503,11 @@ textarea.form-control {
 *   2. Home
 /* ---------------------------------------------- */
 
+#headerImage {
+    border-radius: 150px;
+    border: 5px solid white;	
+}
+
 #home {
 	background: url("https://github.com/RahKapoor/portfolio/blob/master/assets/images/home2.jpg");
 	background-color: #5b5963;
