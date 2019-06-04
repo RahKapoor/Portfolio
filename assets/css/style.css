@@ -40,10 +40,9 @@
 
 @import url(https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900);
 @import url(https://fonts.googleapis.com/css?family=Dosis:700:800);
-@import url(https://fonts.googleapis.com/css?family=Bitter);
 
 body {
-	font: 400 14px/1.8 'Bitter', sans-serif;
+	font: 400 14px/1.8 'Poppins', sans-serif;
 	color: #5b5963;
 	overflow-x: hidden;
 }
@@ -106,7 +105,6 @@ h1, h2, h3, h4, h5, h6 {
 h2 {
 	font-size: 30px;
 	margin: 0 0 30px;
-	font-family: 'Dosis', sans-serif !important;
 }
 
 h3 {
@@ -476,6 +474,7 @@ textarea.form-control {
 	z-index: 0;
 	opacity: 0.05;
 	font-weight: 700;
+	font-weight: "dosis", sans-serif;
 }
 
 .callout {
