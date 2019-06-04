@@ -598,13 +598,20 @@ textarea.form-control {
 	text-align: left;
 }
 
-.hello,
+
 .who-creates {
 	font-size: 16px;
 	text-transform: none;
 	margin: 15px 0;
 	font-weight: 200;
 }
+
+.hello { 
+	font-weight: 700;
+	font-family: 'dosis', sans-serif;
+	font-size: 100px;
+	margin: 15px 0;
+	text-transform: uppercase;}
 
 /*Mouse animate icon*/
 
