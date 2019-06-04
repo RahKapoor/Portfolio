@@ -725,7 +725,7 @@ textarea.form-control {
 }
 
 .portfolio-media {
-	height: 500px;
+	height: 500px !important;
 	}
 
 /* ---------------------------------------------- /*
