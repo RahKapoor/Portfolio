@@ -724,6 +724,10 @@ textarea.form-control {
 	width: 100% !important;
 }
 
+.portfolio-media {
+	height: 500px;
+	}
+
 /* ---------------------------------------------- /*
 *   3. Navigation
 /* ---------------------------------------------- */
