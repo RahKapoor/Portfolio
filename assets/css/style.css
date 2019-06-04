@@ -871,7 +871,7 @@ figure {
 	position: relative;
 }
 .list-items-container .list-item figcaption {
-	background: -webkit-linear-gradient(45deg, rgba(82, 71, 73, 0.22) 0%, rgb(68, 68, 68) 100%);
+	background: #000000ed;
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fa1f55', endColorstr='#fd735a', GradientType=1 );
 	bottom: 8px;
 	left: 8px;
