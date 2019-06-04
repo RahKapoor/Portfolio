@@ -39,10 +39,10 @@
 
 
 @import url(https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900);
-@import url(https://fonts.googleapis.com/css?family=Dosis:700:800);
+@import url(https://fonts.googleapis.com/css?family=Arimo:200,300,400,500,600,700,800,900);
 
 body {
-	font: 400 14px/1.8 'Poppins', sans-serif;
+	font: 400 14px/1.8 'arimo', sans-serif;
 	color: #5b5963;
 	overflow-x: hidden;
 }
@@ -95,7 +95,7 @@ a,
 /*** Typography ***/
 
 h1, h2, h3, h4, h5, h6 {
-	font: 700 40px/1.2 'Poppins', sans-serif;
+	font: 700 40px/1.2 'arimo', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	margin: 5px 0 5px;
@@ -460,7 +460,7 @@ textarea.form-control {
 	margin-bottom: 50px;	
   	font-weight: bolder;
     color: #5b5963;
-	font-size: 70px;
+	font-size: 50px;
 	letter-spacing: 0.5px;
 	font-weight: "dosis", sans-serif;
 }
@@ -608,7 +608,7 @@ textarea.form-control {
 
 .hello { 
 	font-weight: 700;
-	font-family: 'poppins', sans-serif;
+	font-family: 'arimo', sans-serif;
 	font-size: 95px;
 	margin: 15px 0;
 	letter-spacing: 
@@ -826,7 +826,7 @@ textarea.form-control {
 #filter li {
 	background: #f5f5f5;
 	display: inline-block;
-	font: 400 13px/1.2 'Poppins', sans-serif;
+	font: 400 13px/1.2 'arimo', sans-serif;
 	text-transform: uppercase;
 	text-decoration: none;
 	letter-spacing: 1px;
@@ -1223,7 +1223,7 @@ figure {
 
 .blog-viewMore {
     display: block;
-    font: 400 13px/1.2 'Poppins', sans-serif;
+    font: 400 13px/1.2 'arimo', sans-serif;
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 1px;
