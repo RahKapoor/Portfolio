@@ -725,7 +725,9 @@ textarea.form-control {
 }
 
 .portfolio-media {
-	height: 500px !important;
+	height: 400px !important;
+	width: 95% !important;
+	border: 1px solid #1b1b1b24;
 	}
 
 /* ---------------------------------------------- /*
