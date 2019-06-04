@@ -314,7 +314,7 @@ textarea.form-control {
 .btn-custom-2:focus,
 .btn-custom-2:active,
 .btn-custom-2.active {
-	background: rgba(253,115,90,1);
+	background:  rgb(251, 61, 88);
 	color: #fff;
 	box-shadow: 0px 10px 20px rgba(0,0,0,0.1) 
 }
@@ -1088,7 +1088,7 @@ figure {
 	top: 0;
 	font-size: 32px;
 	line-height: 1;
-	color: rgba(253,115,90,1);
+	color: rgb(251, 61, 88);
 }
 
 .iconboxleft-text {
@@ -1287,7 +1287,7 @@ figure {
 .blog-detail-content blockquote {
     font-size: 13px;
     background: #f5f5f5;
-    border-color: rgba(253,115,90,1);
+    border-color:  rgb(251, 61, 88);
 }
 
 .blog-detail-content blockquote p {
@@ -1327,7 +1327,7 @@ figure {
     padding: 3px 15px;
     color: #fff;
     text-transform: capitalize;
-    background: rgba(253,115,90,1);
+    background:  rgb(251, 61, 88);
     border-radius: 2px;
     margin: 15px 0;
 }
@@ -1358,7 +1358,7 @@ figure {
 }
 
 .tags:hover {
-	background-color: rgba(253,115,90,1);
+	background-color:  rgb(251, 61, 88);
 	color: #ffffff;
 }
 
@@ -1386,7 +1386,7 @@ figure {
 }
 
 .blog-nav:hover {
-    background: rgba(253,115,90,1);
+    background:  rgb(251, 61, 88);
     color: #fff;
 }
 
