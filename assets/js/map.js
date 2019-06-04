@@ -6,7 +6,7 @@ function init() {
 	// For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
 	var mapOptions = {
 		// How zoomed in you want the map to start at (always required)
-		zoom: 11,
+		zoom: 20,
 
 		scrollwheel: false,
 
@@ -27,8 +27,8 @@ function init() {
 
 	// Let's also add a marker while we're at it
 	var marker = new google.maps.Marker({
-		position: new google.maps.LatLng(40.6700, -73.9410),
+		position: new google.maps.LatLng(52.489471, -1.898575),
 		map: map,
-		title: 'Hello!'
+		title: 'Located in England!'
 	});
 }
