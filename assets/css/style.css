@@ -1188,7 +1188,7 @@ figure {
     padding: 3px 10px;
     border-radius: 3px;
     box-shadow: -6px 10px 40px rgba(0,0,0,0.06);
-    color: #429f98;
+    color: rgb(251, 61, 88);
     transition: all 0.5s ease 0s;
     text-transform: capitalize;
 }
@@ -1198,7 +1198,7 @@ figure {
 }
 
 .blogList:hover .blogList-img span {
-    background: rgba(253,115,90,1);
+    background: rgb(251, 61, 88);
     color: #fff;
 }
 
