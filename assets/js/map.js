@@ -6,7 +6,7 @@ function init() {
 	// For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
 	var mapOptions = {
 		// How zoomed in you want the map to start at (always required)
-		zoom: 20,
+		zoom: 5,
 
 		scrollwheel: false,
 
