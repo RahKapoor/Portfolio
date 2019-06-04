@@ -10,7 +10,7 @@ layout: default
 	<div class="container">
 		<div class="blog-detail-banner wow fadeIn">
 			{% if page.banner_image %}
-				<img src="/assets/images/blog-banner.jpg" alt="{% if page.banner_image_alt %}{{ page.banner_image_alt }}{% else %}{{ page.title }}{% endif %}">
+				<img src="/portfolio/assets/images/blog-banner.jpg" alt="{% if page.banner_image_alt %}{{ page.banner_image_alt }}{% else %}{{ page.title }}{% endif %}">
 			{% endif %}
 		</div>
 		<div class="blog-detail-contents wow fadeInUp">
@@ -18,7 +18,7 @@ layout: default
 			<div class="blog-detail-about clearfix">
 				<div class="media pull-left">
 					<div class="media-left">
-						<img src="/assets/images/avatar.jpg" class="media-object" alt="avatar">
+						<img src="/portfolio/assets/images/avatar.jpg" class="media-object" alt="avatar">
 					</div>
 					<div class="media-body">
 						<h4 class="media-heading">{{site.author_name}}</h4>
@@ -96,7 +96,7 @@ layout: default
 					<a href="{{site.baseurl}}{{post.url}}" class="blogList wow fadeInUp">
 						<div class="blogList-img">
 							{% if post.banner_preview %}
-								<img src="{{ "/assets/images/" | append: post.banner_preview | prepend: site.baseurl }}" alt="Blog Desc">
+								<img src="{{ "/portfolio/assets/images/" | append: post.banner_preview | prepend: site.baseurl }}" alt="Blog Desc">
 							{% endif %}
 							{% if post.category %}
 							<span>{{ post.category }}</span>
