@@ -306,7 +306,7 @@ textarea.form-control {
 }
 
 .btn-custom-2 {
-	background: rgb(251, 61, 88);
+	background: rgb(208, 49, 53);
 	border-radius: 3px;
 	color: #fff;
 }
@@ -315,7 +315,7 @@ textarea.form-control {
 .btn-custom-2:focus,
 .btn-custom-2:active,
 .btn-custom-2.active {
-	background:  rgb(251, 61, 88);
+	background:  rgb(208, 49, 53);
 	color: #fff;
 	box-shadow: 0px 10px 20px rgba(0,0,0,0.1) 
 }
@@ -445,7 +445,7 @@ textarea.form-control {
 
 .module-icon {
 	font-size: 32px;
-	color: rgb(251, 61, 88);
+	color: rgb(208, 49, 53);
 	margin: 0 auto;
 	height: 80px;
 	width: 80px;
@@ -843,7 +843,7 @@ textarea.form-control {
 
 #filter li:hover,
 #filter li.active {
-	background: rgb(251, 61, 88);
+	background: rgb(208, 49, 53);
 	color: #fff;
 }
 
@@ -1036,7 +1036,7 @@ figure {
 }
 
 .iconbox-icon {
-	color: rgb(251, 61, 88);
+	color: rgb(208, 49, 53);
 	position: absolute;
 	left: 0;
 	right: 0;
@@ -1100,7 +1100,7 @@ figure {
 	top: 0;
 	font-size: 32px;
 	line-height: 1;
-	color: rgb(251, 61, 88);
+	color: rgb(208, 49, 53);
 }
 
 .iconboxleft-text {
@@ -1150,7 +1150,7 @@ figure {
 }
 
 .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
-	background-color: rgb(251, 61, 88);
+	background-color: rgb(208, 49, 53);
 	width: 20px
 }
 
@@ -1200,7 +1200,7 @@ figure {
     padding: 3px 10px;
     border-radius: 3px;
     box-shadow: -6px 10px 40px rgba(0,0,0,0.06);
-    color: rgb(251, 61, 88);
+    color: rgb(208, 49, 53);
     transition: all 0.5s ease 0s;
     text-transform: capitalize;
 }
@@ -1210,7 +1210,7 @@ figure {
 }
 
 .blogList:hover .blogList-img span {
-    background: rgb(251, 61, 88);
+    background: rgb(208, 49, 53);
     color: #fff;
 }
 
@@ -1235,7 +1235,7 @@ figure {
     -ms-transition: all 0.4s ease-in-out 0s;
     -o-transition: all 0.4s ease-in-out 0s;
     transition: all 0.4s ease-in-out 0s;
-    background: rgb(251, 61, 88);
+    background: rgb(208, 49, 53);
     color: #fff;
     max-width: 170px;
     margin: 10px auto;
@@ -1299,7 +1299,7 @@ figure {
 .blog-detail-content blockquote {
     font-size: 13px;
     background: #f5f5f5;
-    border-color:  rgb(251, 61, 88);
+    border-color:  rgb(208, 49, 53);
 }
 
 .blog-detail-content blockquote p {
@@ -1339,7 +1339,7 @@ figure {
     padding: 3px 15px;
     color: #fff;
     text-transform: capitalize;
-    background:  rgb(251, 61, 88);
+    background:  rgb(208, 49, 53);
     border-radius: 2px;
     margin: 15px 0;
 }
@@ -1370,7 +1370,7 @@ figure {
 }
 
 .tags:hover {
-	background-color:  rgb(251, 61, 88);
+	background-color:  rgb(208, 49, 53);
 	color: #ffffff;
 }
 
@@ -1398,7 +1398,7 @@ figure {
 }
 
 .blog-nav:hover {
-    background:  rgb(251, 61, 88);
+    background:  rgb(208, 49, 53);
     color: #fff;
 }
 
