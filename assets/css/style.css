@@ -456,9 +456,10 @@ textarea.form-control {
 
 .module-title {
 	position: relative;
-	margin-bottom: 50px;
-	font-weight: 300;
-	color: #5b5963;
+	margin-bottom: 50px;	
+  	font-weight: bolder;
+        color: #272727;
+        font-size: 45px;
 }
 
 .module-title span{
@@ -469,7 +470,7 @@ textarea.form-control {
 	text-align: center;
 	top: -40px;
 	z-index: 0;
-	opacity: 0.05;
+	opacity: 0.25;
 	font-weight: 700;
 }
 
