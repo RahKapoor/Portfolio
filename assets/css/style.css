@@ -40,9 +40,10 @@
 
 @import url(https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900);
 @import url(https://fonts.googleapis.com/css?family=Dosis);
+@import url(https://fonts.googleapis.com/css?family=Bitter);
 
 body {
-	font: 400 12px/1.8 'Dosis', sans-serif;
+	font: 400 14px/1.8 'Bitter', sans-serif;
 	color: #5b5963;
 	overflow-x: hidden;
 }
@@ -460,7 +461,8 @@ textarea.form-control {
 	margin-bottom: 50px;	
   	font-weight: bolder;
         color: #5b5963;
-        font-size: 45px;
+		font-size: 70px;
+		letter-spacing: 0.5px;
 }
 
 .module-title span{
