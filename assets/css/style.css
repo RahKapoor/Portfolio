@@ -1020,6 +1020,7 @@ figure {
 	max-width: 340px;
 	margin: 30px auto;
 	box-shadow: -6px 10px 40px rgba(0,0,0,0.06);
+	max-height: 200px;
 }
 
 .iconbox-icon {
