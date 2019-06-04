@@ -779,7 +779,7 @@ textarea.form-control {
 }
 
 .navbar-custom .nav li.active, .navbar-custom .nav li a:hover, .navbar-custom .nav li a:focus, .navbar-custom .navbar-nav > li.active a {
-	background: rgb(251, 56, 87);
+	background: rgb(192, 49, 57);
 	color: #fff;
 	outline: 0 none;
 }
