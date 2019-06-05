@@ -308,7 +308,7 @@ textarea.form-control {
 }
 
 .btn-custom-2 {
-	background: #4caf50;
+	background: #4ece52;
 	border-radius: 3px;
 	color: #fff;
 }
@@ -317,7 +317,7 @@ textarea.form-control {
 .btn-custom-2:focus,
 .btn-custom-2:active,
 .btn-custom-2.active {
-	background:  #4caf50;
+	background:  #4ece52;
 	color: #fff;
 	box-shadow: 0px 10px 20px rgba(0,0,0,0.1) 
 }
@@ -777,7 +777,7 @@ textarea.form-control {
 }
 
 .navbar-custom .nav li.active, .navbar-custom .nav li a:hover, .navbar-custom .nav li a:focus, .navbar-custom .navbar-nav > li.active a {
-	background: #4caf50;
+	background: #4ece52;
 	color: #fff;
 	outline: 0 none;
 }
@@ -841,7 +841,7 @@ textarea.form-control {
 
 #filter li:hover,
 #filter li.active {
-	background: #4caf50;
+	background: #4ece52;
 	color: #fff;
 }
 
@@ -1035,7 +1035,7 @@ figure {
 }
 
 .iconbox-icon {
-    color: #4caf50;
+    color: #4ece52;
 	position: absolute;
 	left: 0;
 	right: 0;
@@ -1099,7 +1099,7 @@ figure {
 	top: 0;
 	font-size: 32px;
 	line-height: 1;
-	color: #4caf50;
+	color: #4ece52;
 }
 
 .iconboxleft-text {
@@ -1151,7 +1151,7 @@ figure {
 }
 
 .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
-	background-color: #4caf50;
+	background-color: #4ece52;
 	width: 20px
 }
 
@@ -1211,7 +1211,7 @@ figure {
     position: absolute;
     right: 10px;
     bottom: 10px;
-    background: #4caf50;
+    background: #4ece52;
     padding: 3px 10px;
     border-radius: 3px;
     box-shadow: -6px 10px 40px rgba(0,0,0,0.06);
@@ -1248,7 +1248,7 @@ figure {
     -ms-transition: all 0.4s ease-in-out 0s;
     -o-transition: all 0.4s ease-in-out 0s;
     transition: all 0.4s ease-in-out 0s;
-    background:#4caf50;
+    background:#4ece52;
     color: #fff;
     max-width: 170px;
     margin: 10px auto;
@@ -1357,7 +1357,7 @@ figure {
     padding: 3px 15px;
     color: #fff;
     text-transform: capitalize;
-    background:  #4caf50;
+    background:  #4ece52;
     border-radius: 2px;
     margin: 15px 0;
 }
@@ -1380,7 +1380,7 @@ figure {
 .tags {
     display: inline-block;
     padding: 4px 10px;
-    background-color: #4caf50;
+    background-color: #4ece52;
     color: #ffffff;
     margin-right: 5px;
     text-transform: capitalize;
@@ -1388,7 +1388,7 @@ figure {
 }
 
 .tags:hover {
-	background-color:  #4caf50;
+	background-color:  #4ece52;
 	color: #ffffff;
 }
 
@@ -1418,7 +1418,7 @@ figure {
 }
 
 .blog-nav:hover {
-    background:  #4caf50;
+    background:  #4ece52;
     color: #fff;
 }
 
