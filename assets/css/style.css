@@ -53,12 +53,12 @@ img {
 }
 
 a {
-	color: #49e2d6;
+	color: #ffffff;
 }
 
 a:hover {
 	text-decoration: none;
-	color: #999;
+	color: #ffffff;
 }
 
 /*** Transition elements ***/
@@ -770,7 +770,7 @@ textarea.form-control {
 .navbar-custom .navbar-nav .dropdown-menu > li > a {
 	font-size: 11px;
 	letter-spacing: 3px;
-	color: #5b5963;
+	color: #bdbdbd;
 	font-weight: 600;
 }
 
