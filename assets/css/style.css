@@ -94,7 +94,7 @@ a,
 
 /*** Typography ***/
 
-.post-title { font-size: 45px !important; font-family: 'dosis', sans-serif !important;}
+.post-title { font-size: 45px; font-family: 'dosis', sans-serif !important;}
 
 h1, h2, h3, h4, h5, h6 {
 	font: 700 40px/1.2 'poppins', sans-serif;
@@ -1288,7 +1288,7 @@ figure {
 
 .blog-detail-contents {
     max-width: 1000px;
-    margin: -100px auto 0px;
+    margin: 0px auto 0px;
     background: #34323a;
     display: block;
     padding: 30px 30px;
@@ -1717,6 +1717,9 @@ figure {
 
 @media (max-width: 767px) {
 
+	.post-title { font-size: 35px; font-family: 'dosis', sans-serif !important;
+	
+	}
 	.module {
 		padding: 80px 0;
 	}
