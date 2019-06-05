@@ -602,14 +602,14 @@ textarea.form-control {
     text-transform: none;
     margin: 15px 0;
     font-weight: 200;
-    width: 50%;
+    width: 60%;
     margin: 0 auto;
     margin-top: 50px;
 }
 
 .hello { 
 	font-weight: 700;
-	font-family: 'dosis', sans-serif;
+	font-family: 'poppins', sans-serif;
 	font-size: 60px;
 	margin: 15px 0;
 	letter-spacing: normal;
