@@ -1476,17 +1476,21 @@ figure {
 }
 
 .social-links a {
-	width: 36px;
-	height: 36px;
-	display: block;
-	line-height: 37px;
-	text-align: center;
-	border: 1px solid rgba(255, 255, 255, .8);
-	-webkit-border-radius: 50%;
-	-moz-border-radius: 50%;
-	border-radius: 50%;
-	font-size: 14px;
-	color: rgba(255, 255, 255, .8);
+    width: 36px;
+    height: 36px;
+    display: block;
+    line-height: 37px;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, .8);
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    font-size: 14px;
+    color: rgba(255, 255, 255, .8);
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    zoom: 1.4;
 }
 
 .social-links a:hover {
