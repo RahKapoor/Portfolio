@@ -1791,7 +1791,8 @@ figure {
 		right: 0.3em;
 	}
 
-	.scroll-nav { display: none;}
+	.scroll-nav { display: none !important;
+	}
 
 }
 
