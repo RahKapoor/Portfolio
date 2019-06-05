@@ -1235,6 +1235,8 @@ figure {
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
+    font-size: 20px;
+    font-family: dosis;
 }
 
 .blog-viewMore {
@@ -1733,7 +1735,7 @@ figure {
 	.centered {
 		width: 80%;
 	}
-	
+
 	.post-title {		
 		font-size: 35px; font-family: 'dosis', sans-serif !important;
 	
