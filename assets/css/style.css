@@ -1778,6 +1778,16 @@ figure {
 	margin: 15px 0;
 	}
 
+	.who-creates {
+		font-size: 30px;
+		text-transform: none;
+		margin: 15px 0;
+		font-weight: 200;
+		width: 100%;
+		margin: 0 auto;
+		margin-top: 50px;
+	}
+
 }
 
 @media (max-width: 480px) {
