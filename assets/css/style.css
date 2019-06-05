@@ -94,6 +94,8 @@ a,
 
 /*** Typography ***/
 
+.post-title { font-size: 40px !important; font-family: 'doris', sans-serif !important;}
+
 h1, h2, h3, h4, h5, h6 {
 	font: 700 40px/1.2 'poppins', sans-serif;
 	text-transform: uppercase;
@@ -1665,6 +1667,7 @@ figure {
 .recent-posts {
 	
 }
+
 
 /* ---------------------------------------------- /*
 *  14. All Media Queries

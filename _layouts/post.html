@@ -10,7 +10,7 @@ layout: default
 	<div style="width:100%">
 		<div class="blog-detail-banner header-container wow fadeIn">
 			{% if page.banner_image %}
-			<div class="centered"><h2>{{page.title}}</h2></div>
+			<div class="centered"><h2 class="post-title">{{page.title}}</h2></div>
 				<img src="{{site.baseurl}}/assets/images/{{page.banner_image}}" alt="{% if page.banner_image_alt %}{{ page.banner_image_alt }}{% else %}{{ page.title }}{% endif %}">
 			{% endif %}
 		</div>
