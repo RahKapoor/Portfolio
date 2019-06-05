@@ -459,11 +459,10 @@ textarea.form-control {
 .module-title {
 	position: relative;
 	margin-bottom: 50px;	
-  	font-weight: bolder;
+  	font-weight: 700;
     color: #fff;
-	font-size: 50px;
-	letter-spacing: 0.5px;
-	font-weight: "dosis", sans-serif;
+	font-size: 60px;
+	letter-spacing: normal;
 }
 
 .module-title span{
@@ -840,7 +839,7 @@ textarea.form-control {
 
 #filter li:hover,
 #filter li.active {
-	background: #34323a);
+	background: #34323a;
 	color: #fff;
 }
 
@@ -1129,6 +1128,7 @@ figure {
 
 .single-testimonials p {
 	font-size: 18px;
+	font-weight: 400;
 }
 
 .single-testimonials span {
@@ -1192,19 +1192,16 @@ figure {
     object-fit: cover;
 }
 
+
 .blogList-img span {
     position: absolute;
     right: 10px;
     bottom: 10px;
-    background: #fff;
+    background: #34323a;
     padding: 3px 10px;
     border-radius: 3px;
     box-shadow: -6px 10px 40px rgba(0,0,0,0.06);
-    color: rgb(208, 49, 53);
-    transition: all 0.5s ease 0s;
-	text-transform: capitalize;
-	
-	
+    color: #fff;
 }
 
 .blogList:hover {
@@ -1276,14 +1273,15 @@ figure {
 }
 
 .blog-detail-contents {
-    max-width: 800px;
+    max-width: 1100px;
     margin: -100px auto 0px;
-    background: #fff;
+    background: #34323a;
     display: block;
     padding: 30px;
     z-index: 11;
     position: relative;
     border-radius: 10px;
+    color: white;
 }
 
 .blog-detail-content p {
@@ -1300,8 +1298,8 @@ figure {
 
 .blog-detail-content blockquote {
     font-size: 13px;
-    background: #f5f5f5;
-    border-color:  rgb(208, 49, 53);
+    background: #2a2830;
+    border-color: rgb(255, 255, 255);
 }
 
 .blog-detail-content blockquote p {
@@ -1337,11 +1335,15 @@ figure {
     vertical-align: middle;
 }
 
+.blog-detail {
+	background: #2a2830;
+}
+
 .blog-detail-category {
     padding: 3px 15px;
     color: #fff;
     text-transform: capitalize;
-    background:  rgb(208, 49, 53);
+    background:  #2a2830;
     border-radius: 2px;
     margin: 15px 0;
 }
