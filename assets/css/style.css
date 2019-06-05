@@ -1033,7 +1033,7 @@ figure {
 }
 
 .iconbox-icon {
-    color: #34323a;
+    color: #4caf50;
 	position: absolute;
 	left: 0;
 	right: 0;
@@ -1278,7 +1278,7 @@ figure {
     margin: -100px auto 0px;
     background: #34323a;
     display: block;
-    padding: 30px;
+    padding: 30px 30px;
     z-index: 11;
     position: relative;
     border-radius: 10px;
@@ -1400,7 +1400,8 @@ figure {
     background: #2a2830;
     transition: all 0.125s ease-in-out 0s;
     display: block;
-    border-radius: 3px;
+	border-radius: 3px;
+	margin-top: 10px;
 }
 
 .blog-nav:hover {
