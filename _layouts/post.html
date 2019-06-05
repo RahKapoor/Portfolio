@@ -43,7 +43,7 @@ layout: default
 					<style>
 						svg#i-clock {vertical-align: middle;}
 					</style>
-					
+
 				</div>
 				
 			</div>
@@ -79,7 +79,7 @@ layout: default
 						{% endif %}
 
 						{% if page.next.url %}
-						<div class="col-md-6">
+						<div class="col-md-6" style="background: {{page.next.banner_image}}">
 							<a href="{{ site.baseurl }}{{page.next.url}}" class="blog-nav">
 								<span>Next</span>
 								<p>{{page.next.title}}</p>
