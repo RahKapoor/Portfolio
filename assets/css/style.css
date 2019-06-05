@@ -1481,12 +1481,11 @@ figure {
     display: block;
     line-height: 37px;
     text-align: center;
-    border: 1px solid rgba(255, 255, 255, .8);
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
     font-size: 14px;
-    color: rgba(255, 255, 255, .8);
+    color: rgba(255, 255, 255);
     text-align: center;
     margin: 0 auto;
     margin-bottom: 20px;
@@ -1787,6 +1786,12 @@ figure {
 		margin: 0 auto;
 		margin-top: 50px;
 	}
+
+	.scroll-email {
+		right: 0.3em;
+	}
+
+	.scroll-nav { display: none;}
 
 }
 
