@@ -1495,14 +1495,15 @@ figure {
 /* ---------------------------------------------- /*
 *  11. Scroll to top
 /* ---------------------------------------------- */
-
 .scroll-up {
-	position: fixed;
-	display: none;
-	z-index: 999;
-	bottom: 1.8em;
-	right: 1.8em;
+		position: fixed;
+		display: none;
+		z-index: 999;
+		bottom: .2em;
+		right: .8em;
+		zoom: 2;
 }
+
 
 .scroll-up a {
 	background-color: rgba(0, 0, 0, 0.3);
