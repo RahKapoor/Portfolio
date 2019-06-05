@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	margin: 5px 0 5px;
-	color: #5b5963;
+	color: #fff;
 }
 
 h2 {
@@ -387,7 +387,7 @@ textarea.form-control {
 }
 
 .module-gray {
-	background: #f5f5f5;
+	background: #2a2830;
 }
 
 .module-white {
@@ -446,7 +446,7 @@ textarea.form-control {
 
 .module-icon {
 	font-size: 32px;
-	color: rgb(208, 49, 53);
+	color: #fff;
 	margin: 0 auto;
 	height: 80px;
 	width: 80px;
@@ -460,7 +460,7 @@ textarea.form-control {
 	position: relative;
 	margin-bottom: 50px;	
   	font-weight: bolder;
-    color: #5b5963;
+    color: #fff;
 	font-size: 50px;
 	letter-spacing: 0.5px;
 	font-weight: "dosis", sans-serif;
@@ -735,7 +735,7 @@ textarea.form-control {
 .portfolio-media {
 	height: 400px !important;
 	width: 95% !important;
-	border: 1px solid #1b1b1b24;
+	border: 15px solid #34323a;
 	}
 
 /* ---------------------------------------------- /*
@@ -762,7 +762,7 @@ textarea.form-control {
 
 .navbar-custom,
 .navbar-custom .dropdown-menu {
-	background: #fff;
+	background:#2a2830;
 	padding: 0;
 }
 
@@ -776,7 +776,7 @@ textarea.form-control {
 }
 
 .navbar-custom .nav li.active, .navbar-custom .nav li a:hover, .navbar-custom .nav li a:focus, .navbar-custom .navbar-nav > li.active a {
-	background: rgb(192, 49, 57);
+	background: rgb(52, 50, 58);
 	color: #fff;
 	outline: 0 none;
 }
@@ -840,7 +840,7 @@ textarea.form-control {
 
 #filter li:hover,
 #filter li.active {
-	background: rgb(208, 49, 53);
+	background: #34323a);
 	color: #fff;
 }
 
@@ -1022,14 +1022,15 @@ figure {
 /* ---------------------------------------------- */
 
 .iconbox {
-	background: #fff none repeat scroll 0 0;
-	padding: 50px 20px;
-	position: relative;
-	text-align: center;
-	max-width: 340px;
-	margin: 30px auto;
-	box-shadow: -6px 10px 40px rgba(0,0,0,0.06);
-	max-height: 200px;
+		background: #34323a none repeat scroll 0 0;
+		padding: 50px 20px;
+		position: relative;
+		text-align: center;
+		max-width: 340px;
+		margin: 30px auto;
+		box-shadow: -6px 10px 40px rgba(0,0,0,0.06);
+		max-height: 200px;
+		color: white;	
 }
 
 .iconbox-icon {
@@ -1123,10 +1124,11 @@ figure {
 .single-testimonials {
 	max-width: 500px;
 	margin: 0 auto;
+	color: white;
 }
 
 .single-testimonials p {
-	font-size: 13px;
+	font-size: 18px;
 }
 
 .single-testimonials span {
@@ -1162,17 +1164,18 @@ figure {
 }
 
 .blogList {
-	background: #fff none repeat scroll 0 0;
+    background: #fff none repeat scroll 0 0;
     position: relative;
     max-width: 340px;
     margin: 30px auto;
     box-shadow: -6px 10px 40px rgba(0,0,0,0.06);
     display: block;
-    color: #5b5963 !important;
+    color: #ffffff !important;
     transition: all 0.3s ease 0s;
     position: relative;
     font-size: inherit;
     text-indent: 0;
+    background: #34323a;
 }
 
 .blogList-desc {
@@ -1199,7 +1202,9 @@ figure {
     box-shadow: -6px 10px 40px rgba(0,0,0,0.06);
     color: rgb(208, 49, 53);
     transition: all 0.5s ease 0s;
-    text-transform: capitalize;
+	text-transform: capitalize;
+	
+	
 }
 
 .blogList:hover {
@@ -1232,7 +1237,7 @@ figure {
     -ms-transition: all 0.4s ease-in-out 0s;
     -o-transition: all 0.4s ease-in-out 0s;
     transition: all 0.4s ease-in-out 0s;
-    background: rgb(208, 49, 53);
+    background: #34323a;
     color: #fff;
     max-width: 170px;
     margin: 10px auto;
@@ -1430,7 +1435,7 @@ figure {
 	text-align: center;
 	padding: 40px 0;
 	color: #FFF;
-	background: #333
+	background: #2a2830;
 }
 
 .copyright {
