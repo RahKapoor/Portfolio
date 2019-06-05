@@ -609,8 +609,8 @@ textarea.form-control {
 	font-family: 'poppins', sans-serif;
 	font-size: 60px;
 	margin: 15px 0;
-	letter-spacing: 
-	text-transform: uppercase;}
+	letter-spacing: normal;
+}
 
 /*Mouse animate icon*/
 
@@ -1738,7 +1738,11 @@ figure {
 		display: none;
 	}
 	.module-title span {
-		font-size: 30px;
+		font-size: 60px;
+		top: -10px;
+	}
+	.module-title  {
+		font-size: 40px;
 		top: -10px;
 	}
 	.iconbox{
@@ -1747,6 +1751,13 @@ figure {
 
 	.carousel-control{
 		display: none;
+	}
+
+	.hello {
+    font-weight: 700;
+    font-family: 'poppins', sans-serif;
+    font-size: 35px;
+	margin: 15px 0;
 	}
 
 }
