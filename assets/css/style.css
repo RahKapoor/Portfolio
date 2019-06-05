@@ -306,7 +306,7 @@ textarea.form-control {
 }
 
 .btn-custom-2 {
-	background: #53f6c7;
+	background: #4caf50;
 	border-radius: 3px;
 	color: #fff;
 }
@@ -315,7 +315,7 @@ textarea.form-control {
 .btn-custom-2:focus,
 .btn-custom-2:active,
 .btn-custom-2.active {
-	background:  #53f6c7;
+	background:  #4caf50;
 	color: #fff;
 	box-shadow: 0px 10px 20px rgba(0,0,0,0.1) 
 }
@@ -1097,7 +1097,7 @@ figure {
 	top: 0;
 	font-size: 32px;
 	line-height: 1;
-	color: #53f6c7;
+	color: #4caf50;
 }
 
 .iconboxleft-text {
@@ -1149,7 +1149,7 @@ figure {
 }
 
 .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
-	background-color: #53f6c7;
+	background-color: #4caf50;
 	width: 20px
 }
 
@@ -1210,7 +1210,7 @@ figure {
 }
 
 .blogList:hover .blogList-img span {
-    background: #53f6c7;
+    background: #4caf50;
     color: #fff;
 }
 
@@ -1375,7 +1375,7 @@ figure {
 }
 
 .tags:hover {
-	background-color:  #53f6c7;
+	background-color:  #4caf50;
 	color: #ffffff;
 }
 
@@ -1403,7 +1403,7 @@ figure {
 }
 
 .blog-nav:hover {
-    background:  #53f6c7;
+    background:  #4caf50;
     color: #fff;
 }
 
