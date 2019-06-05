@@ -507,6 +507,8 @@ textarea.form-control {
 *   2. Home
 /* ---------------------------------------------- */
 
+.home-icons { font-size: 50px; color: white;}
+
 #headerImage {
     border-radius: 150px;
     border: 5px solid white;	
