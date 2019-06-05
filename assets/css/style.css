@@ -1246,7 +1246,7 @@ figure {
     -ms-transition: all 0.4s ease-in-out 0s;
     -o-transition: all 0.4s ease-in-out 0s;
     transition: all 0.4s ease-in-out 0s;
-    background: #34323a;
+    background:#4caf50;
     color: #fff;
     max-width: 170px;
     margin: 10px auto;
