@@ -595,7 +595,7 @@ textarea.form-control {
 	background-position: left center;
 	background-repeat: no-repeat;
 	z-index: 31;
-	text-align: left;
+	text-align: center;
 }
 
 
@@ -609,7 +609,7 @@ textarea.form-control {
 .hello { 
 	font-weight: 700;
 	font-family: 'poppins', sans-serif;
-	font-size: 95px;
+	font-size: 60px;
 	margin: 15px 0;
 	letter-spacing: 
 	text-transform: uppercase;}
