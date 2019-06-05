@@ -1500,8 +1500,13 @@ figure {
 		display: none;
 		z-index: 999;
 		bottom: .2em;
-		right: .8em;
+		right: .3em;
 		zoom: 2;
+}
+
+.scroll-email {
+	right: 2.5em;
+
 }
 
 
