@@ -839,7 +839,7 @@ textarea.form-control {
 
 #filter li:hover,
 #filter li.active {
-	background: #34323a;
+	background: #4caf50;
 	color: #fff;
 }
 
@@ -1198,7 +1198,7 @@ figure {
     position: absolute;
     right: 10px;
     bottom: 10px;
-    background: #34323a;
+    background: #4caf50;
     padding: 3px 10px;
     border-radius: 3px;
     box-shadow: -6px 10px 40px rgba(0,0,0,0.06);
@@ -1210,7 +1210,7 @@ figure {
 }
 
 .blogList:hover .blogList-img span {
-    background: #4caf50;
+    background: #34323a;
     color: #fff;
 }
 
