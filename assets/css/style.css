@@ -94,7 +94,7 @@ a,
 
 /*** Typography ***/
 
-.post-title { font-size: 45px; font-family: 'dosis', sans-serif !important;}
+.post-title { font-size: 45px; font-family: 'poppins', sans-serif !important;}
 
 h1, h2, h3, h4, h5, h6 {
 	font: 700 40px/1.2 'poppins', sans-serif;
@@ -1236,7 +1236,7 @@ figure {
     white-space: nowrap;
     text-overflow: ellipsis;
     font-size: 20px;
-    font-family: dosis;
+    font-family: poppins;
 }
 
 .blog-viewMore {
@@ -1737,7 +1737,7 @@ figure {
 	}
 
 	.post-title {		
-		font-size: 35px; font-family: 'dosis', sans-serif !important;
+		font-size: 35px; font-family: 'poppins', sans-serif !important;
 	
 	}
 	.module {
