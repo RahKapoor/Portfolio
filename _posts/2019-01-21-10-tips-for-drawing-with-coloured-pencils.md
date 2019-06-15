@@ -11,10 +11,14 @@ tags: [web design, blogging]
 
 **Creating a website can be troublesome as its difficult to know where to start!**
 
-You'll be introduced to a plethra of options and solutions, all with their different kits and tools which will determine the end result of your website
+You'll be introduced to a plethra of options and solutions, all with their different kits and tools which will determine the end result of your website.
 
 Shopify, Wix and Squarespace all try to make it easy for people to create websites within minutes but sometimes you need more power behind your website!
 
-With Wordpress you'll be able to do add more punch to your website, allowing you to get more technical with the features and functions you would like to integrate
+With Wordpress you'll be able to do add more punch to your website, allowing you to get more technical with the features and functions you would like to integrate.
+
+### When to choose Wordpress? ###
+
+
 
 
