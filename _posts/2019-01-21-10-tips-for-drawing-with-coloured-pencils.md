@@ -1,13 +1,20 @@
 ---
 layout: post
-title:  "10 tips for drawing with coloured pencils"
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim..."
-date: 2019-01-21
+title:  "Why use Wordpress?"
+description: "With Shopify, Wix, Squarespace and hundreds of other options, what makes Wordpress so great?"
+date: 2019-06-15
 banner_preview: blog3.jpg
 banner_image: blog-banner.jpg
 category: Design
 tags: [web design, blogging]
 ---
 
-Using Wordpress can be difficult however I must explain to you about how you can make it simple and efficent!
+###Creating a website can be troublesome as its difficult to know where to start! 
+
+You'll be introduced to a plethra of options and solutions, all with their different kits and tools which will determine the end result of your website
+
+Shopify, Wix and Squarespace all try to make it easy for people to create websites within minutes but sometimes you need more power behind your website!
+
+With Wordpress you'll be able to do add more punch to your website, allowing you to get more technical with the features and functions you would like to integrate
+
 
