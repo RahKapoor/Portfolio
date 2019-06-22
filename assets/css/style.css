@@ -96,7 +96,10 @@ a,
 
 .post-title { font-size: 45px; font-family: 'poppins', sans-serif !important;}
 
-.blog-detail-contents h2 { letter-spacing: 0.3px;}
+.blog-detail-content h2 {
+    margin: 25px 0;
+    letter-spacing: normal;
+}
 
 h1, h2, h3, h4, h5, h6 {
 	font: 700 40px/1.2 'poppins', sans-serif;
