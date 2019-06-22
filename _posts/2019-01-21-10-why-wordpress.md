@@ -30,22 +30,3 @@ Some website building tools think about design and apps first, then the blogging
 That’s not the case with WordPress, so you can create a beautiful ecommerce site and know that the blog is an integral part of the development process.
 
 Wordpress can basically do, anything!
-
-Blogs
-Business websites
-Portfolios
-Forums
-ECommerce sites
-Ratings websites
-Membership sites
-eLearning modules
-Chatrooms
-Galleries
-Personal websites for self-promotion
-Job boards
-Business directories
-Q&A websites like Quora
-Non-profit websites for collecting donations
-Wikis and knowledgebases
-Media-centric sites like YouTube
-Auction and coupon sites
