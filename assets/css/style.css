@@ -1299,7 +1299,7 @@ figure {
 
 .blog-detail-contents {
     max-width: 1000px;
-    margin: -100px auto 0px;
+    margin: 0px auto 0px;
     background: #34323a;
     display: block;
     padding: 30px 30px;
