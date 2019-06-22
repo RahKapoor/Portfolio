@@ -94,7 +94,8 @@ a,
 
 /*** Typography ***/
 
-.post-title { font-size: 45px; font-family: 'poppins', sans-serif !important; background: #34323a; padding: 25px; border-radius: 50%;}
+.post-title { font-size: 45px; font-family: 'poppins', sans-serif !important; letter-spacing: normal; text-transform: capitalize;
+ }
 
 .blog-detail-content h2 {
     margin: 25px 0;
