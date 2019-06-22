@@ -11,7 +11,7 @@ layout: default
 		<div class="blog-detail-banner header-container wow fadeIn">
 			{% if page.banner_image %}
 			<div class="centered"><h2 class="post-title">{{page.title}}</h2></div>
-				<img src="{{site.baseurl}}/assets/images/{{page.banner_preview}}" alt="{% if page.banner_image_alt %}{{ page.banner_image_alt }}{% else %}{{ page.title }}{% endif %}">
+				<img src="{{site.baseurl}}/assets/images/posts/{{page.banner_preview}}" alt="{% if page.banner_image_alt %}{{ page.banner_image_alt }}{% else %}{{ page.title }}{% endif %}">
 			{% endif %}
 		</div>
 		
@@ -71,7 +71,7 @@ layout: default
 					<div class="row">
 						{% if page.previous.url %}
 						<div class="col-md-6">
-							<a href="{{ site.baseurl }}{{page.previous.url}}" class="blog-nav" style="background: url(/portfolio/assets/images/{{page.previous.banner_image}});	background-size: cover;">
+							<a href="{{ site.baseurl }}{{page.previous.url}}" class="blog-nav" style="background: url(/portfolio/assets/images/posts/{{page.previous.banner_image}});	background-size: cover;">
 								<span>Previous</span>
 								<p>{{page.previous.title}}</p>
 							</a>
@@ -80,7 +80,7 @@ layout: default
 
 						{% if page.next.url %}
 						<div class="col-md-6">
-							<a href="{{ site.baseurl }}{{page.next.url}}" class="blog-nav" style="background: url(/portfolio/assets/images/{{page.next.banner_image}});	background-size: cover;">
+							<a href="{{ site.baseurl }}{{page.next.url}}" class="blog-nav" style="background: url(/portfolio/assets/images/posts/{{page.next.banner_image}});	background-size: cover;">
 								<span>Next</span>
 								<p>{{page.next.title}}</p>
 							</a>
@@ -114,7 +114,7 @@ layout: default
 					<a href="{{site.baseurl}}{{post.url}}" class="blogList wow fadeInUp">
 						<div class="blogList-img">
 							{% if post.banner_image %}
-								<img src="{{ "/assets/images/" | append: post.banner_image | prepend: site.baseurl }}" alt="Blog Desc">
+								<img src="{{ "/assets/images/posts/" | append: post.banner_image | prepend: site.baseurl }}" alt="Blog Desc">
 							{% endif %}
 							{% if post.category %}
 							<span>{{ post.category }}</span>
