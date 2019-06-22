@@ -29,4 +29,6 @@ Some website building tools think about design and apps first, then the blogging
 
 That’s not the case with WordPress, so you can create a beautiful ecommerce site and know that the blog is an integral part of the development process.
 
-Wordpress can basically do, anything!
+Wordpress can basically do, anything Wix, Shopify and Squarespace can do, plus more for the same price, if not cheaper.
+
+To me, thats a win!
