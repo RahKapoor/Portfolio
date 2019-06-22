@@ -100,7 +100,7 @@ a,
 .blog-detail-content h2 {
     margin: 25px 0;
 	letter-spacing: normal;
-	text-transform: capitalize;
+	text-transform: none;
 	font-size: 25px;
 }
 
