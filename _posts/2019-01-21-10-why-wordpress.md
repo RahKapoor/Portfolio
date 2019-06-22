@@ -3,8 +3,8 @@ layout: post
 title:  "Why use Wordpress?"
 description: "With Shopify, Wix, Squarespace and hundreds of other options, what makes Wordpress so great?"
 date: 2019-06-15
-banner_preview: header-wordpress-security.png
-banner_image: header-wordpress-security.png
+banner_preview: header-wordpress-security.jpg
+banner_image: header-wordpress-security.jpg
 category: Web
 tags: [web design, blogging]
 ---
