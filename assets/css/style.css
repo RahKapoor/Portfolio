@@ -36,7 +36,15 @@
 /* ---------------------------------------------- /*
 *   1. General styles
 /* ---------------------------------------------- */
-
+.background-post:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: rgba(248, 247, 216, 0.7);
+  }
 
 @import url(https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900);
 @import url(https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800,900);
