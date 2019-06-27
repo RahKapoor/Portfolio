@@ -13,6 +13,7 @@ layout: default
 			<div class="centered"></div>
 				<img src="{{site.baseurl}}/assets/images/posts/{{page.banner_preview}}" alt="{% if page.banner_image_alt %}{{ page.banner_image_alt }}{% else %}{{ page.title }}{% endif %}">
 			{% endif %}
+			<div class="layer">
 		</div>
 		
 		<div class="blog-detail-contents wow fadeInUp">
@@ -73,6 +74,7 @@ layout: default
 						{% if page.previous.url %}
 						<div class="col-md-6">
 							<a href="{{ site.baseurl }}{{page.previous.url}}" class="blog-nav" style="background: url(/portfolio/assets/images/posts/{{page.previous.banner_image}});	background-size: cover;">
+								<div class="layer">
 								<span>Previous</span>
 								<p>{{page.previous.title}}</p>
 							</a>
@@ -82,6 +84,7 @@ layout: default
 						{% if page.next.url %}
 						<div class="col-md-6">
 							<a href="{{ site.baseurl }}{{page.next.url}}" class="blog-nav" style="background: url(/portfolio/assets/images/posts/{{page.next.banner_image}});	background-size: cover;">
+								<div class="layer">
 								<span>Next</span>
 								<p>{{page.next.title}}</p>
 							</a>
