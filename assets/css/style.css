@@ -473,6 +473,7 @@ textarea.form-control {
     color: #fff;
 	font-size: 60px;
 	letter-spacing: normal;
+	text-transform: capitalize;
 }
 
 .module-title span{
