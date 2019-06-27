@@ -94,7 +94,7 @@ a,
 
 /*** Typography ***/
 
-.post-title { font-size: 45px; font-family: 'poppins', sans-serif !important; letter-spacing: normal; text-transform: capitalize;
+.post-title { font-size: 45px; font-family: 'poppins', sans-serif !important; letter-spacing: normal; text-transform: capitalize; margin: 50px 0px 50px 0px;
  }
 
 .blog-detail-content h2 {
@@ -1750,6 +1750,7 @@ figure {
 
 	.post-title {		
 		font-size: 35px; font-family: 'poppins', sans-serif !important;
+		margin: 50px 0px 50px 0px;
 	
 	}
 	.module {
