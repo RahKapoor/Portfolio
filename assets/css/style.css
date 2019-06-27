@@ -393,15 +393,15 @@ textarea.form-control {
 
 .module {
 	padding: 120px 0 100px;
-	background: #2a2830;
+	background: #1d1d1d;
 }
 
 .module-gray {
-	background: #2a2830;
+	background: #1d1d1d;
 }
 
 .module-white {
-	background: #2a2830;
+	background: #1d1d1d;
 }
 
 .module-image {
@@ -528,7 +528,7 @@ textarea.form-control {
 }
 
 #home {
-	background: #2a2830;
+	background: #1d1d1d;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
@@ -774,7 +774,7 @@ textarea.form-control {
 
 .navbar-custom,
 .navbar-custom .dropdown-menu {
-	background:#2a2830;
+	background:#1d1d1d;
 	padding: 0;
 }
 
@@ -1326,7 +1326,7 @@ figure {
 
 .blog-detail-content blockquote {
     font-size: 13px;
-    background: #2a2830;
+    background: #1d1d1d;
     border-color: rgb(255, 255, 255);
 }
 
@@ -1424,7 +1424,7 @@ figure {
 
 .blog-nav {
     padding: 10px;
-    background: #2a2830;
+    background: #1d1d1d;
     transition: all 0.125s ease-in-out 0s;
     display: block;
 	border-radius: 3px;
@@ -1467,7 +1467,7 @@ figure {
 	text-align: center;
 	padding: 40px 0;
 	color: #FFF;
-	background: #2a2830;
+	background: #1d1d1d;
 }
 
 .copyright {
@@ -1581,7 +1581,7 @@ figure {
 }
 
 #loading{
-	background: #2a2830;
+	background: #1d1d1d;
 	background: -moz-linear-gradient(45deg, rgb(21, 20, 20) 0%, rgb(62, 62, 62) 100%);
 	background: -webkit-gradient(45deg, rgb(21, 20, 20) 0%, rgb(62, 62, 62) 100%);
 	background: -webkit-linear-gradient(45deg, rgb(21, 20, 20) 0%, rgb(62, 62, 62) 100%);
