@@ -36,15 +36,7 @@
 /* ---------------------------------------------- /*
 *   1. General styles
 /* ---------------------------------------------- */
-.background-post:before {
-    content: '';
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: 0;
-    background: rgba(248, 247, 216, 0.7);
-  }
+
 
 @import url(https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900);
 @import url(https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800,900);
@@ -1394,6 +1386,7 @@ figure {
 	height: 400px;
 	width: 100%;
 	object-fit: cover;
+	opacity: 0.2;
 }
 
 .blog-detail-tags ul {
@@ -1443,6 +1436,7 @@ figure {
     display: block;
 	border-radius: 3px;
 	margin-top: 10px;
+	box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.4);
 }
 
 .blog-nav:hover {
