@@ -1387,7 +1387,7 @@ figure {
 	height: 400px;
 	width: 100%;
 	object-fit: cover;
-	opacity: 0.2;
+	opacity: 0.5;
 }
 
 .blog-detail-tags ul {
@@ -1697,9 +1697,6 @@ figure {
 	padding: 20px !important;
 }
 
-.recent-posts {
-	
-}
 
 
 /* ---------------------------------------------- /*
