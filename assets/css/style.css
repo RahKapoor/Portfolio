@@ -40,7 +40,6 @@
 
 @import url(https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900);
 @import url(https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800,900);
-@import url(https://fonts.googleapis.com/css?family=Bree+Serif&display=swap);
 
 body {
 	font: 400 14px/1.8 'poppins', sans-serif;
@@ -614,11 +613,11 @@ textarea.form-control {
     width: 60%;
     margin: 0 auto;
 	margin-top: 50px;
-	font-family: 'Bree Serif', serif;
+	font-family: 'poppins', sans-serif;
 }
 
 .hello { 
-	font-family: 'Bree Serif', serif;
+	font-family: 'poppins', sans-serif;
 	font-size: 55px;
 	margin: 15px 0;
 	letter-spacing: normal;
@@ -1787,7 +1786,7 @@ figure {
 
 	.hello {
     font-weight: 700;
-    font-family: 'Bree Serif', serif;
+    font-family: 'poppins', sans-serif;
     font-size: 35px;
 	margin: 15px 0;
 	}
@@ -1800,7 +1799,7 @@ figure {
 		width: 100%;
 		margin: 0 auto;
 		margin-top: 50px;
-		font-family: 'Bree Serif', serif;
+		font-family: 'poppins', sans-serif;
 	}
 
 	.scroll-email {
