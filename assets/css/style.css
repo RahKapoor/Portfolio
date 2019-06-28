@@ -105,6 +105,26 @@ a,
 	font-weight: 500;
 }
 
+.blog-detail-content h1 {
+	letter-spacing: normal;
+	text-transform: capitalize;
+	font-weight: 500;
+}
+
+.blog-detail-content h2 {
+	letter-spacing: normal;
+	text-transform: capitalize;
+	font-weight: 500;
+}
+
+
+.blog-detail-content h3 {
+	letter-spacing: normal;
+	text-transform: capitalize;
+	font-weight: 500;
+}
+
+
 h1, h2, h3, h4, h5, h6 {
 	font: 700 40px/1.2 'poppins', sans-serif;
 	text-transform: uppercase;
